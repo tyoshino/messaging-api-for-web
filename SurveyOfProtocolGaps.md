@@ -1,4 +1,4 @@
-# Non-Request-Response Communication over the Web, and What's Missing
+# Non Request-Response Communication over the Web, and What's Missing
 
 - Authors: Takeshi Yoshino <tyoshino@google.com>, Wenbo Zhu <wenboz@google.com>
 - First version published: Jan/16/2014
